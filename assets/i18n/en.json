@@ -1,0 +1,161 @@
+{
+  "AppComponent": {
+    "txtLoadingDefault": "QIU3D,yet another FOMO Game.",
+    "loadingMsgs":[
+      "This is a zero-sum game. If someone wins, someone will lose.",
+      "If you continue to opt in, are you sure that you are the winner?",
+      "Sometimes, opt-out is not shameful, at least you keep your money.",
+      "Fomo3D? This is Qiu3D, are you sure you are not in the wrong place?",
+      "If you are a leek, quit, come here will make your EOS blood gone~",
+      "I only say once the cheats of winning, that is to buy tickets that cover all possibilities, and only buy once",
+      "In the gamble of life, you will always lose, but you never believe that it will be the next time.",
+      "Everyone who comes here is like you, wants to speculate! You must be the smartest one?",
+      "This is a website built by a madman team. Quit, quit! ! !",
+      "Is your EOS air dropped? Are you sure you want to give it to someone else?",
+      "Do you know how much effort we have made for this dApp? Love us!",
+      "Qiu3D is a game that a fool can participate in, and will continue to participate~ Are you stupid?", 
+      "If you just want to learn Chinese in this game, don't enter!"
+    ],
+    "locatingContract":"Looking for our smart contract in the global EOS network...",
+    "invalidNetworkId":"Currently, We only supports EOS networks. Please switch your Scatter or mobile wallet to a supported network and refresh the page~",
+    "fatal":"We have encountered a fatal error, which may be caused by your Scatter or mobile wallet, please check the browser Log."
+  },
+  "HeaderComponent":{
+    "linkOfficial":"Website",
+    "linkBlog":"Blog",
+    "linkWiki":"Wiki",
+    "linkContracts":"Contracts",
+    "chgLanguage":"中文",
+    "loginMsg":"Login",
+    "logoutMsg":" [Logout]",
+    "copyNoInvite":"COPY INV LINK (no one invited)",
+    "copyInvitePrize":"COPY LINK (bonus：__prize__EOS)",
+    "copyDone":"Invitation link copied ~ invite your friend,get your bonus.",
+    "unknownNet":"UnknownNet",
+    "notConnected":"Not connected",
+    "netNames":[
+      "MainNet","DeprecatedNet","Ropsten","Rinkeby",
+      "Kovan","Unknown","Custom"
+    ],
+    "connectPrefix":"Connected: ",
+    "noPluginPC":"<a href=\"/instplugin\">Scatter</a> not detected，you can‘t pay EOS for the game. please install or run your <a href=\"/instplugin\">Scatter</a> and refresh the page～",
+    "noPluginMobile":"Please open by <a href=\"instplugin\">Scatter Wallet</a>~"
+  },
+  "MainContentComponent":{
+    "buyTicket":"BUY TICKETS",
+    "chooseOptions":"Choose 1-5 opts. 1 hit got JACKSPOT",
+    "betForMatch":"BETS",
+    "betForYourTeam":"Choose your winning team to bet",
+    "ruleExp":"HOW TO PLAY",
+    "tooltip":"Any hit option of ticket will get prize<br/>up to 90% volume of prize pool<br/>Ticket holders will get the dividend"
+  },
+  "MatchInfoComponent":{
+    "calculating":"Calculating...",
+    "matching":"Matching...",
+    "dateTime":[" Days "," Hrs "," Mins "," Secs"]
+  },
+  "CardBuyTicketComponent":{
+    "fullTimeResult":"FULL TIME RESULT",
+    "totalGoals":"TOTAL GOALS",
+    "overGoals":" OVER GOALS",
+    "bothScore":"BOTH TEAMS TO SCORE",
+    "fullHalf":"HALF FULL RESULT",
+    "ticketCnt":"TICKETS COUNT",
+    "buyWithVault":"Buy with Vault ",
+    "buyTicket":"BUY",
+    "chooseOpts":["notChoose","Draw","Yes","No"],
+    "unitPrice":"PRICE: ",
+    "chooseLeastOne":"Choose at least 1 option",
+    "reqTicketCnt":"Input the ticket count",
+    "notEnoughVault":"Insufficient EOS .",
+    "noEthAcc":"No EOS account for pay.",
+    "waitForWallet":"Waiting for transcation..",
+    "transComplete":"EOS has charged.",
+    "transFailed":"Charging failed,Insufficient EOS.",
+    "oddsTxt":"ODDS"
+  },
+  "CardBetComponent":{
+    "betNotOpened":"Ticket holders didn't open the bet,be patient",
+    "fullTimeOdds":"ODDS",
+    "bet":"BET",
+    "maxBet":"MAX",
+    "reqOption":"Choose your option",
+    "invalidCnt":"Input a valid amount",
+    "overMaxSell":"Not enough to sell",
+    "notEnoughVault":"Insufficient EOS .",
+    "noEthAcc":"No EOS account for pay.",
+    "estReturn":"EST Return "
+  },
+  "CardExpComponent":{
+    "rules":[
+      "1. BUY TICKETS",
+      "Buy tickets, you need to make predictions for 1 to 5 options, at least 1 option",
+      "The price of a ticket will be increased slightly with the number of tickets purchased by players",
+      "Any hit option of ticket will get prize , up to 90% volume of prize pool",
+      "Ticket holders will get the dividend",
+      "2. BETS",
+      "When 30% ticket holders choose FULL-TIME-RESULT option, and HOME-DRAW-AWAY both choosen,the SMART CONTRACT will give out the odds and make the bets opened",
+      "You can bets for HOME-DRAW-AWAY and get the reward by bets*odds.",
+      "* Invite bonues",
+      "Invite your friend to buy the ticket,you can get 10% bonues of sales,return to your wallet address immediately",
+      "* Tickets dividend",
+      "Ticket holders will get the dividend"
+    ]
+  },
+  "StatsComponent":{
+    "title":"Statistics of TICKETS",
+    "overGoals":"HOME OVER GOALS",
+    "ticketSales":"TICKET SALES",
+    "chtSummarize":["FTR","GOL","OVG","BOS","H/F"],
+    "chtBothTeam":["Y","N"],
+    "chtHalfFull":[
+      "H/H","H/D","H/A"
+      ,"D/H","D/D","D/A"
+      ,"A/H","A/D","A/A"
+    ],
+    "chtFullRes":["H","D","A"],
+    "loading":"LOADING.."
+  },
+  "InstPluginComponent":{
+    "forMobile":"For MOBILE",
+    "download":"DOWNLOAD",
+    "gotoPC":"On desktop and use Scatter to access",
+    "needMetaMask":"We need Scatter to be installed and logon",
+    "gotoDownload":" DOWNLOAD >>"
+  },
+  "FooterComponent":{
+    "contact":"You can contact us by links below:"
+  },
+  "MyVaultComponent":{
+    "return":"Return to Buy",
+    "profitReport":"REPORT",
+    "noProfit":"No profit has been generated till now.",
+    "goPay":"Please buy a ticket or bet",
+    "totalPrize":"TOTAL PRICE",
+    "ticketProfit":"PROFIT(Tickets):",
+    "ticketDividend":"DIVIDEND(Tickets):",
+    "betProfit":"PROFIT(Bets):",
+    "inviteProfit":"DIVIDEND(Bets):",
+    "withdraw":"WITHDRAW:",
+    "availableWithDraw":"Available:",
+    "doWithDraw":"WITHDRAW",
+    "totalTicketsProfitInMatch":"PROFIT:",
+    "totalTicketsDividendInMatch":"DIVIDEND:",
+    "zeroTicketInMatch":"You have no tickets",
+    "ticketDividendInMatch":"Dividend:",
+    "ticketProfitInMatch":"Profit:",
+    "ticketMatchTxt":"Match:",
+    "ticketChooseInfoTxt":"Options:",
+    "ticketCost":"Costs:",
+    "ticketValue":"Count:",
+    "betsProfitInMatch":"Profit:",
+    "noBets":"You have no bets",
+    "noDesirePaid":"Missed",
+    "waitDesirePaid":"Waiting",
+    "betMatchTxt":"Match:",
+    "betChooseInfoTxt":"Odds:",
+    "betCost":"Costs:",
+    "ticketNoHit":"Missed",
+    "ticketInProgress":"..."
+  }
+}
