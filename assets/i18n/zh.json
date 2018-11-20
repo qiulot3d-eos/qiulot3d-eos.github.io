@@ -71,7 +71,7 @@
     "noEthAcc":"您没有开启的EOS账户无法购买球票～",
     "waitForWallet":"等待钱包交易完成...",
     "transComplete":"已经完成对于您选择球票的购买",
-    "transFailed":"扣款失败，或许您的钱包或奖金池中已没有那么多资金...",
+    "transFailed":"扣款失败，或许我们正碰到一个错误，查看控制台获取更多信息.",
     "oddsTxt":"赔率"
   },
   "CardBetComponent":{

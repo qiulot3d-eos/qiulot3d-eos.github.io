@@ -71,7 +71,7 @@
     "noEthAcc":"No EOS account for pay.",
     "waitForWallet":"Waiting for transcation..",
     "transComplete":"EOS has charged.",
-    "transFailed":"Charging failed,Insufficient EOS.",
+    "transFailed":"Charging failed,something error.Check console log for more info.",
     "oddsTxt":"ODDS"
   },
   "CardBetComponent":{
