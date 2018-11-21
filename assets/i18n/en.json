@@ -92,7 +92,7 @@
       "Buy tickets, you need to make predictions for 1 to 5 options, at least 1 option",
       "The price of a ticket will be increased slightly with the number of tickets purchased by players",
       "Any hit option of ticket will get prize , up to 90% volume of prize pool",
-      "Ticket holders will get the dividend",
+      "Since all ticket holders divide the prize pool, the odds indicated in the ticket option are the current dynamic odds, which may be dynamically adjusted with the subsequent ticket sales.",
       "2. BETS",
       "When 30% ticket holders choose FULL-TIME-RESULT option, and HOME-DRAW-AWAY both choosen,the SMART CONTRACT will give out the odds and make the bets opened",
       "You can bets for HOME-DRAW-AWAY and get the reward by bets*odds.",
