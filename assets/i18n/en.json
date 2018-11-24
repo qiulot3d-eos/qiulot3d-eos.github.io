@@ -47,7 +47,8 @@
     "betForMatch":"BETS",
     "betForYourTeam":"Choose your winning team to bet",
     "ruleExp":"HOW TO PLAY",
-    "tooltip":"Any hit option of ticket will get prize<br/>up to 90% volume of prize pool<br/>Ticket holders will get the dividend"
+    "tooltip":"Any hit option of ticket will get prize<br/>up to 90% volume of prize pool<br/>Ticket holders will get the dividend",
+    "history":"LATEST BETS"
   },
   "MatchInfoComponent":{
     "calculating":"Calculating...",

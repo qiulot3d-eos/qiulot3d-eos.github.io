@@ -47,7 +47,8 @@
     "betForMatch":"赛事竞猜",
     "betForYourTeam":"请选择您认为能获胜的队伍进行投注",
     "ruleExp":"解释说明",
-    "tooltip":"猜中任何一个比赛因素都会获得奖励<br>奖励至多高达奖池的90%<br>每张球票同时获得奖池分红"
+    "tooltip":"猜中任何一个比赛因素都会获得奖励<br>奖励至多高达奖池的90%<br>每张球票同时获得奖池分红",
+    "history":"最近投注"
   },
   "MatchInfoComponent":{
     "calculating":"正在计算...",
