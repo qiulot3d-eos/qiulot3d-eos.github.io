@@ -73,7 +73,8 @@
     "waitForWallet":"Waiting for transcation..",
     "transComplete":"EOS has charged.",
     "transFailed":"Charging failed,something error.Check console log for more info.",
-    "oddsTxt":"ODDS"
+    "oddsTxt":"ODDS",
+    "matchEnded":"Matching..What you want todo?"
   },
   "CardBetComponent":{
     "betNotOpened":"Ticket holders didn't open the bet,be patient",

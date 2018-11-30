@@ -73,7 +73,8 @@
     "waitForWallet":"等待钱包交易完成...",
     "transComplete":"已经完成对于您选择球票的购买",
     "transFailed":"扣款失败，或许我们正碰到一个错误，查看控制台获取更多信息.",
-    "oddsTxt":"赔率"
+    "oddsTxt":"赔率",
+    "matchEnded":"比赛已经开始，您还想干嘛？看球去！"
   },
   "CardBetComponent":{
     "betNotOpened":"球票持有者一致认为此刻无需开盘~再等等",
